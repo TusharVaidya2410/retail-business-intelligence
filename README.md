@@ -3,12 +3,7 @@
 An end-to-end Business Intelligence project built using PostgreSQL, SQL, and Power BI on the Olist Brazilian E-Commerce dataset. The project transforms raw transactional data into interactive dashboards and business insights for executive decision-making.
 ##  Live Resources
 
-📥 **Download Interactive Power BI Dashboard (.pbix):**  
-[Google Drive - PBIX File](https://drive.google.com/file/d/1n5kAx5i0BnDjjK0IhwrOS9YGxd6gXND2/view?usp=sharing)
 
-> **Note:** The PBIX file is hosted on Google Drive because it exceeds GitHub's file size limit. Open it using Microsoft Power BI Desktop.
-
----
 
 ## Project Overview
 
